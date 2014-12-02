@@ -16,6 +16,11 @@
   first_name: Leah
   last_name: Bannon
 
+- name: bateman
+  full_name: Patrick Bateman
+  first_name: Patrick
+  last_name: Bateman
+
 - name: david
   full_name: David Best
   first_name: David
